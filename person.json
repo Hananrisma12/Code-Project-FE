@@ -1,0 +1,13 @@
+{
+    "person":[
+        {
+            "id":"1",
+            "name":"Hanan",
+            "kamar":"mawar",
+            "diagnosa":"demam",
+            "dokter":"de. Eko",
+            "nik":"123",
+            "tanggal":"5 Januari 2020"
+        }
+    ]
+}
